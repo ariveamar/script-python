@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 
-"""
-author: Imam Omar Mochtar (iomarmochtar@gmail.com)
-"""
+
 
 import sys
 import os
